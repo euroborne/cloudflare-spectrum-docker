@@ -5,7 +5,7 @@ Lightweight Docker Container that dynamically updates IP via Cloudflare API. Kee
 # WORK IN PROGRESS
 
 ## About
-This is a fork of [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) script added with **docker** support and some **notification services**.
+This is a fork of [zimmermq/cloudflare-ddns-docker]([https://github.com/zimmermq/cloudflare-ddns-docker]).
 - lightweight docker image based on alpine
 - written in pure BASH
 - scheduled with crond
