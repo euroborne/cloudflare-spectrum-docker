@@ -1,5 +1,5 @@
 
-# ☁️ Cloudflare DDNS IP Updater - Docker
+# ☁️ Cloudflare Spectrum IP Updater - Docker
 Lightweight Docker Container that dynamically updates IP via Cloudflare API. Keep your Spectrum application static IP updated to the current value of your network's dynamicly assigned public IP.
 
 # WORK IN PROGRESS
