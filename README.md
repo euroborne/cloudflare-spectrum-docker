@@ -3,6 +3,7 @@
 Lightweight Docker Container that dynamically updates IP via Cloudflare API. Keep your Spectrum application static IP updated to the current value of your network's dynamicly assigned public IP.
 
 # WORK IN PROGRESS
+Everything below this line still requires updates
 
 ## About
 This is a fork of [zimmermq/cloudflare-ddns-docker]([https://github.com/zimmermq/cloudflare-ddns-docker]).
