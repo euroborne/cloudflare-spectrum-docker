@@ -1,6 +1,8 @@
 
 # ☁️ Cloudflare DDNS IP Updater - Docker
-Lightweight Docker Container that dynamically updates the IP via Cloudflare API. Access your home network remotely via a custom domain name without a static IP! 
+Lightweight Docker Container that dynamically updates IP via Cloudflare API. Keep your Spectrum application static IP updated to the current value of your network's dynamicly assigned public IP.
+
+# WORK IN PROGRESS
 
 ## About
 This is a fork of [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) script added with **docker** support and some **notification services**.
